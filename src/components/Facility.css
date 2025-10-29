@@ -42,7 +42,6 @@
   height: 100%;
   object-fit: cover;
   display: block;
-  filter: grayscale(100%);
 }
 
 .facility-video-wrapper {
